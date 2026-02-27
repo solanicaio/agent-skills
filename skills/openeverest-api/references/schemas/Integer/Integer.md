@@ -1,0 +1,4 @@
+# Integer
+
+**Type:** primitive
+
