@@ -1,7 +1,13 @@
 ---
 name: openeverest-api
-description: # Authentication. Use when working with the OpenEverest schema or when the user needs to interact with this API.
+description: OpenEverest API operations guide. Use this skill when interacting with OpenEverest endpoints for authentication, database cluster lifecycle management, backups/restores, monitoring, infrastructure policies, and related schema-driven requests.
+license: Apache-2.0
 metadata:
+  author: solanica
+  version: "1.0.0"
+  organization: Solanica
+  date: February 2026
+  abstract: Comprehensive OpenEverest API skill for self-hosted deployments. Includes authentication guidance, resource indexes, operation-level request/response details, and schema references for accurate agent-driven API execution across database clusters, backups, restores, monitoring, scheduling, load balancing, and DNS configuration.
   api-version: "1.0.0"
   openapi-version: "3.0.2"
 ---
